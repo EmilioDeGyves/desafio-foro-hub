@@ -1,0 +1,1 @@
+alter table usuario CHANGE COLUMN correoElectronico correo_electronico VARCHAR(255) NOT NULL UNIQUE
